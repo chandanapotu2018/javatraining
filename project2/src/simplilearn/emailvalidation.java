@@ -1,4 +1,4 @@
-package project2;
+package simplilearn;
 import java.util.ArrayList;
 import java.util.regex.Pattern;
 import java.util.regex.Matcher;
@@ -9,12 +9,12 @@ public class emailvalidation {
  ArrayList<String> emailID = new ArrayList<String>();
  
  emailID.add("chandu@gmail.com");
- emailID.add("priya@gmail.com");
+ emailID.add("vani@gmail.com");
+ emailID.add("rahul@gmail.com");
  emailID.add("rani@gmail.com");
+ emailID.add("priya@gmail.com");
  emailID.add("anu@gmail.com");
  emailID.add("aadi@gmail.com");
- emailID.add("aravind@gmail.com");
- emailID.add("rahul@gmail.com");
  
  String searchElement;
  System.out.println("E-mail: ");
