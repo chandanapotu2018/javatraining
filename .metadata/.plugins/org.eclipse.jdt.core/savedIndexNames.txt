@@ -1,6 +1,2 @@
 INDEX VERSION 1.131+C:\javatraining\.metadata\.plugins\org.eclipse.jdt.core
-359463923.index
-1226400473.index
-3651567432.index
 1865797976.index
-2332585552.index
