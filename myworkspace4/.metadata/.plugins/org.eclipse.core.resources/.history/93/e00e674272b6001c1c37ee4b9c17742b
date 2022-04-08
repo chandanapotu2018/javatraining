@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+<title>Login form</title>
+
+<br>
+<br>
+
+<a href="login?username=chandanapotu2018@gmail.com"> Enter the username</a>
+
+<a href="dashboard"> Enter the password </a>
+
+</body>
+</html>

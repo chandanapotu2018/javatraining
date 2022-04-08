@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+
+</head>
+<body>
+
+<h2>Login Form</h2>
+
+<br>
+<br>
+
+username: 
+       
+<br>
+<br>
+
+password:
+<a href="dashboard"> Enter the password :  </a>
+
+</body>
+</html>
